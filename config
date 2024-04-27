@@ -3,7 +3,7 @@ image=x86-64
 
 openwrt_version=23.05.0
 
-packages=ca-bundle ca-certificates curl kmod-tcp-bbr kmod-tun
+packages=ca-bundle ca-certificates curl kmod-tcp-bbr kmod-tun luci
 
 disabled_services=
 
