@@ -1,9 +1,9 @@
 
-image=bcm27xx-bcm2711
+image=x86-64
 
 openwrt_version=23.05.0
 
-packages=block-mount -iwinfo
+packages=ca-bundle ca-certificates dnsmasq-full curl kmod-tcp-bbr kmod-tun
 
 disabled_services=
 
