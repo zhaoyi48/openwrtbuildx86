@@ -3,7 +3,7 @@ image=x86-64
 
 openwrt_version=24.10.2
 
-packages=ca-bundle ca-certificates curl kmod-tcp-bbr kmod-tun luci iptables-mod-tproxy iptables-mod-extra libopenssl dnsmasq iptables-nft ip6tables-nft
+packages=ca-bundle ca-certificates curl kmod-tcp-bbr kmod-tun luci iptables-mod-tproxy iptables-mod-extra libopenssl dnsmasq-full iptables-nft ip6tables-nft
 
 disabled_services=
 
