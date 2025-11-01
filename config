@@ -3,7 +3,7 @@ image=x86-64
 
 openwrt_version=24.10.2
 
-packages=-dnsmasq iptables dnsmasq-full curl ca-bundle ipset ip-full iptables-mod-tproxy iptables-mod-extra ruby ruby-yaml kmod-tun kmod-inet-diag unzip luci-compat luci luci-base
+packages=-dnsmasq iptables dnsmasq-full curl ca-bundle ipset ip-full iptables-mod-tproxy iptables-mod-extra ruby ruby-yaml kmod-tun kmod-inet-diag unzip luci-compat luci luci-base bash
 
 disabled_services=
 
